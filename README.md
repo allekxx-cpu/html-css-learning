@@ -1,7 +1,7 @@
 # HTML & CSS Learning
 
-I'm starting web development again **from the very beginning**, writing everything by hand.
-This repository is my 28-day journey through HTML and CSS: one small page at a time, with notes in my own words.
+I'm starting web development again from the very beginning, and writing everything by hand.
+This repository is my 28-day plan for HTML and CSS: one small page a day, with notes in my own words.
 
 > I build with AI-assisted tools, and I'm learning the fundamentals so I truly understand what I ship.
 
@@ -70,7 +70,3 @@ week-01-html/
 ## What's next
 
 When the 28 days are done: JavaScript basics, and Python in its own repository.
-
----
-
-*Learning in public. Honest notes, slow progress, real understanding.*
