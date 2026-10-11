@@ -21,7 +21,7 @@ This repository is my 28-day plan for HTML and CSS: one small page a day, with n
 
 ## The 28 days
 
-- [ ] **Day 1**: [Set up and your first page](week-01-html/README.md)
+- [x] **Day 1**: [Set up and your first page](week-01-html/README.md)
 - [ ] **Day 2**: [Links and images](week-01-html/README.md)
 - [ ] **Day 3**: [Lists and text](week-01-html/README.md)
 - [ ] **Day 4**: [Semantic structure](week-01-html/README.md)
