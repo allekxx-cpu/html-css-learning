@@ -1,0 +1,3 @@
+Relative path adalah lokasi yang dihitung dari file yang sedang dibuka. asset/sigma.png berhasil karena browser mencari folder asset di folder yang sama dengan index.html. Kalau foldernya dipindah, path ini ikut berubah.
+
+Absolute path adalah alamat lengkap yang tidak bergantung pada lokasi file kita. https://alexdev.id selalu menunjuk ke alamat yang sama dari mana pun link dibuka. Kalau alamatnya salah, halaman tidak akan muncul, seperti yang kamu alami tadi.
