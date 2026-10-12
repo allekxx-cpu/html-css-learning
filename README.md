@@ -27,7 +27,7 @@ This repository is my 28-day plan for HTML and CSS: one small page a day, with n
 - [x] **Day 4**: [Semantic structure](week-01-html/README.md)
 - [x] **Day 5**: [Forms](week-01-html/README.md)
 - [x] **Day 6**: [Build: About Me (HTML only)](week-01-html/README.md)
-- [ ] **Day 7**: [Review day](week-01-html/README.md)
+- [x] **Day 7**: [Review day](week-01-html/README.md)
 - [ ] **Day 8**: [Connect CSS and use selectors](week-02-css-basics/README.md)
 - [ ] **Day 9**: [Text and units](week-02-css-basics/README.md)
 - [ ] **Day 10**: [The box model](week-02-css-basics/README.md)
