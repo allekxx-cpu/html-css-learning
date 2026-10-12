@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="id">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>about me</title>
+    </head>
+    <body>
+        <header>
+            <h1>Halaman about me</h1>
+            <p>kenali saya lebih dekat</p>
+            <nav aria-label="navigasi_utama">
+                <a href="#tentang">tentang saya</a>
+                <a href="#hobi">hobi</a>
+                <a href="#kontak">kontak</a>
+            </nav>
+        </header>
+
+        <main>
+            <section id="tentang">
+                <h2>tentang saya</h2>
+                <img src="asset/foto.png" alt="foto profil sementara" width="200" height="200">
+                <p>halo saya adalah alex saya menemouh pendidikan s1 di telkom university</p>
+                <h3>3 kata yg menggambarkan diri saya</h3>
+                <ul>
+                    <li>kece</li>
+                    <li>tampan</li>
+                    <li>pemberani</li>
+                </ul>
+            </section>
+
+            <section id="hobi">
+                <h2>halaman hobi</h2>
+                <p>hobi saya adalah traveling</p>
+                <h3>hal yg saya sukai selama traveling</h3>
+                <ol>
+                    <li>melihat hal baru</li>
+                    <li>bersyukur</li>
+                    <li>keseruan nya</li>
+                </ol>
+            </section>
+
+            <section id="kontak">
+                <h2>hubungi saya</h2>
+                <form>
+                    <p>
+                        <label for="nama">nama lengkap</label>
+                        <input type="text" id="nama" name="nama" required>
+                    </p>
+
+                    <p>
+                        <label for="email">email</label>
+                        <input type="email" id="email" name="email" required>
+                    </p>
+
+                    <p>
+                        <label for="topik">topik pesan</label>
+                        <select id="topik" name="topik">
+                            <option value="pertanyaan">pertanyaan</option>
+                            <option value="saran">saran</option>
+                            <option value="lainnya">lainnya</option>
+                        </select>
+                    </p>
+
+                    <p>
+                        <label for="pesan">isi pesan</label>
+                        <textarea id="pesan" name="pesan" rows="5" cols="30" required></textarea>
+                    </p>
+                    <button type="submit">kirim</button>
+                </form>
+            </section>
+        </main>
+        <footer>
+            <p>&copy; 2026 about me</p>
+        </footer>
+    </body>
+</html>
